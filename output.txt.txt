@@ -1,0 +1,257 @@
+
+
+<dlentry><dt>A/c. does not belong to CIF</dt> <dd>The exception code for raising an exception when an account does not belong to a CIF.</dd></dlentry>
+<dlentry><dt>A/c. ID</dt> <dd>Indicates the account ID from/to which transaction has taken place</dd></dlentry>
+<dlentry><dt>Account Hosting Module</dt> <dd>Indicates the module hosting the account.</dd></dlentry>
+<dlentry><dt>Action</dt> <dd>Click the appropriate value to indicate the action to be taken by the bank user on the bill in suspense. Valid Values: Yes No</dd></dlentry>
+<dlentry><dt>Action Taken</dt> <dd>The action taken on the bills.</dd></dlentry>
+<dlentry><dt>Additional Details</dt> <dd>Click to view the additional details.</dd></dlentry>
+<dlentry><dt>Address</dt> <dd>Indicates the address of the customer.</dd></dlentry>
+<dlentry><dt>Address Details</dt> <dd>Indicates the address details.</dd></dlentry>
+<dlentry><dt>Adhoc Run</dt> <dd>Unscheduled batch run for calculating interest/tax or collecting charges/tax. <p>Valid Values</p><p><b>:Yes</b>: In case of "Yes", unscheduled batch run is performed. </p><p><b>No:</b> In case of "No", no unscheduled batch run is performed.</p></dd></dlentry>
+<dlentry><dt>Amount</dt> <dd>Indicates the amount.</dd></dlentry>
+<dlentry><dt>Amount Indicator</dt> <dd>Indicates the amount paid, whether full or differential.<p>Valid Values</p><p><b>Full</b> Indicates full amount paid.</p><p><b>Defferential</b> Indicates differential amount paid.</p></dd></dlentry>
+<dlentry><dt>Amt. Payable</dt> <dd>Indicates the payable amount.</dd></dlentry>
+<dlentry><dt>Amt. Range</dt> <dd>The amount range given from low to high, in the mentioned currency.</dd></dlentry>
+<dlentry><dt>Applicable Discount</dt> <dd>Indicates discounts if applicable.</dd></dlentry>
+<dlentry><dt>Asset Maintenance Cost</dt> <dd>Indicates the maintenance cost of the asset.</dd></dlentry>
+<dlentry><dt>Back Value Dated Transactions</dt> <dd>The option indicates whether back value dated transactions are required. Valid Values: Yes No</dd></dlentry>
+<dlentry><dt>Bank ID</dt> <dd>The bank ID of the bank for which the setup must be done.</dd></dlentry>
+<dlentry><dt>Bank Identifier Code/Network Directory ID</dt> <dd>Indicates a unique alphanumeric code used to identify banks and their branches across the globe to carry out monetary wire transactions accurately and efficiently. Also known as SWIFT code. Here it indicates the bank identifier code of the debtor / network directory.</dd></dlentry>
+<dlentry><dt>Bank/Branch Code</dt> <dd>A code number in alphanumeric form that is assigned to a bank in Finacle, to identify it in the data center. Service Outlets (SOLs) are linked to bank codes to indicate to which banks the SOLs belong.</dd></dlentry>
+<dlentry><dt>Bill Amt Collected</dt> <dd>The amount collected for the bill.</dd></dlentry>
+<dlentry><dt>Bill Amt.</dt> <dd>The bill amount for the bill selected.</dd></dlentry>
+<dlentry><dt>Bill CCY</dt> <dd>Indicates the bill currency.</dd></dlentry>
+<dlentry><dt>Bill Consolidator</dt> <dd>Indicate if the biller is to be registered as bill consolidator.</dd></dlentry>
+<dlentry><dt>Bill Crncy</dt> <dd>Indicates the bill currency.</dd></dlentry>
+<dlentry><dt>Bill Database</dt> <dd>The appropriate value to indicate if the bills are maintained in external or internal database. <p>Valid Values: </p><p>Internal External None </p><p>Note: The default value is Internal. This field is disabled if biller service type is Payment. </p></dd></dlentry>
+<dlentry><dt>Bill Download Template ID</dt> <dd>Indicates the bill download template ID.</dd></dlentry>
+<dlentry><dt>Bill Due Date</dt> <dd>Indicates the bill due date.</dd></dlentry>
+<dlentry><dt>Bill History</dt> <dd>Indicates the details of all the payments made by the customer towards different bills.</dd></dlentry>
+<dlentry><dt>Bill Identification Template ID</dt> <dd>Indicates the bill identification template ID.</dd></dlentry>
+<dlentry><dt>Bill Payment Cutoff Time</dt> <dd>Indicates the cutoff time for bill payment at bank branch.</dd></dlentry>
+<dlentry><dt>Bill Ref. No.</dt> <dd>The reference number associated with the bill.</dd></dlentry>
+<dlentry><dt>Bill Srl No.</dt> <dd>The serial number of the bill.</dd></dlentry>
+<dlentry><dt>Bill Status</dt> <dd>The status of the bill is given whether unpaid, paid, in process, partially paid, payer paid, recalled or expired.</dd></dlentry>
+<dlentry><dt>Bill Status Recon Template ID</dt> <dd>Indicates the bill status recon template ID.</dd></dlentry>
+<dlentry><dt>Bill Type</dt> <dd>Indicates the type of bill.<p>Valid Values</p><p><b>Ad Hoc Bill</b> Indicates the bill type is adhoc.</p><p><b>Presented</b> Indicates the bill type is presented.</p></dd></dlentry>
+<dlentry><dt>Biller Category</dt> <dd>Indicates the biller category code created and signifies the business category to which biller belongs.</dd></dlentry>
+<dlentry><dt>Biller CCY</dt> <dd>Indicates the code of the currency in which the biller service operates.</dd></dlentry>
+<dlentry><dt>Biller Charge Debit A/c.</dt> <dd>Indicates the account ID of other bank to which the final credit will happen. Note: This field is disabled if None is selected in the charge biller for service field.</dd></dlentry>
+<dlentry><dt>Biller Charge Event ID</dt> <dd>The charge code used for collecting charges from billers. These charges are collected only in batch mode</dd></dlentry>
+<dlentry><dt>Biller Consolidator ID</dt> <dd>Indicates the identification number of the biller consolidator.</dd></dlentry>
+<dlentry><dt>Biller ID</dt> <dd>Indicates the ID of the biller.</dd></dlentry>
+<dlentry><dt>Biller Name</dt> <dd>Indicates the biller name.</dd></dlentry>
+<dlentry><dt>Biller Service</dt> <dd>The name of the biller service.</dd></dlentry>
+<dlentry><dt>Biller Service ID</dt> <dd>Indicates the ID of the biller service.</dd></dlentry>
+<dlentry><dt>Biller Service Name</dt> <dd>The name of the biller service.</dd></dlentry>
+<dlentry><dt>Biller Type</dt> <dd>Indicates the type of biller.<p>Valid Values</p><p><b>Presentment</b> Indicates the biller type is presentment.</p><p><b>Payment</b> Indicates the biller type is payment.</p></dd></dlentry>
+<dlentry><dt>Bills Presented Volume</dt> <dd>Click the hyperlink to view the list of bills for presentment.</dd></dlentry>
+<dlentry><dt>Cash and Transfer Download Template ID</dt> <dd>The cash transfer download template ID.</dd></dlentry>
+<dlentry><dt>CCY</dt> <dd>Indicates the currency.</dd></dlentry>
+<dlentry><dt>CCY Code</dt> <dd>Indicates the currency code.</dd></dlentry>
+<dlentry><dt>Charge Amt.</dt> <dd>Indicates the charge amount. It is defaulted based on the charge event ID. Note: This field is displayed if Waive Charges is selected as No.</dd></dlentry>
+<dlentry><dt>Charge Calculation Frequency</dt> <dd>Indicates the frequency to collect charges from the biller. <p>Valid Values: Daily Weekly Fortnightly Monthly Quarterly Half Yearly Yearly Every 'N' Days Twice a Month</p><p> Note: This field is disabled if None is selected in the charge biller for service field. </p></dd></dlentry>
+<dlentry><dt>Charge Collection Frequency</dt> <dd>The charge collection frequency. Valid Values: Daily Weekly Bi-Weekly Monthly Quarterly Semi Annual Yearly Every 'N' Days Twice a Month</dd></dlentry>
+<dlentry><dt>Charge Debit A/c.</dt> <dd>Indicates the account to be debited for the charges.</dd></dlentry>
+<dlentry><dt>Charge Debit A/c. ID</dt> <dd>Indicates the account id to debit the charges.</dd></dlentry>
+<dlentry><dt>Charge Event ID</dt> <dd>The event ID of the charges.</dd></dlentry>
+<dlentry><dt>Charge Remarks</dt> <dd>Relevant remarks when charges are waived off.</dd></dlentry>
+<dlentry><dt>Charge Reversal</dt> <dd>Indicates the appropriate value for charge reversal. <p>Valid Values:</><p> Yes</p><p> No</p><p> Note: This field is displayed only if Transaction Type is Return/Recall .</p></dd></dlentry>
+<dlentry><dt>Charge Waiver Reason Code</dt> <dd>The reason code for waiving the charges.</dd></dlentry>
+<dlentry><dt>Charging Biller for Services</dt> <dd>The code to indicate how the biller is to be charged by the bank for availing the bill pay functionality. Valid Values: None Presentment Payment Presentment and Payment </dd></dlentry>
+<dlentry><dt>Charging Payer for Services</dt> <dd>The code to indicate how the payer is to be charged by the bank for availing the bill pay functionality. Valid Values: None Presentment Payment Presentment and Payment </dd></dlentry>
+<dlentry><dt>Cheque Download Template ID</dt> <dd>The id for the cheque download template.</dd></dlentry>
+<dlentry><dt>CIF ID</dt> <dd>The ID of the customer information file (CIF).</dd></dlentry>
+<dlentry><dt>Clearing Placeholder</dt> <dd>Indicates the clearing placeholder.</dd></dlentry>
+<dlentry><dt>Collect Charge Separately</dt> <dd>Indicates if charges need to be collected seperately or not.<p>Valid Values</p><p><b>Yes</b> Indicates charges to be collected seperately.</p><p><b>No</b> Indicates charges need not be collected seperately.</p></dd></dlentry>
+<dlentry><dt>Consumer Id</dt> <dd>Indicates the consumer ID.</dd></dlentry>
+<dlentry><dt>Converted Amt.</dt> <dd>The converted amount related to product code.</dd></dlentry>
+<dlentry><dt>Creation Date</dt> <dd>The date of creation of the payment.</dd></dlentry>
+<dlentry><dt>Credit A/c. ID</dt> <dd>The account id to which the payments is to be credited.</dd></dlentry>
+<dlentry><dt>Credit Card A/c. Placeholder</dt> <dd>Indicates the credit card account placeholder.</dd></dlentry>
+<dlentry><dt>Credit Card Download Template ID</dt> <dd>Indicates the credit card download template ID.</dd></dlentry>
+<dlentry><dt>Credit Card Expiry Date</dt> <dd>The expiry date of the credit card.</dd></dlentry>
+<dlentry><dt>Credit to Biller A/c. Frequency</dt> <dd>Indicates the credit to biller account frequency. <p>Valid Values: Daily Weekly Fortnightly Monthly Quarterly Half Yearly Yearly Every 'N' Days Twice a Month </p><p>Note: This field is enabled only if Payment Credit Preference is 'Frequency Based Payment'.</p></dd></dlentry>
+<dlentry><dt>Credit/Debit Indicator</dt> <dd>The appropriate value to indicate the credit or debit indicator. <p>Valid Values: </p><p>Credit</p><p> Debit</p></dd></dlentry>
+<dlentry><dt>Currency Code</dt> <dd>The unique code assigned to a currency.</dd></dlentry>
+<dlentry><dt>Customer</dt> <dd>Indicates the customer.</dd></dlentry>
+<dlentry><dt>Customer Name</dt> <dd>Indicates the name of the customer.</dd></dlentry>
+<dlentry><dt>CVV No.</dt> <dd>The CVV number for the card.</dd></dlentry>
+<dlentry><dt>Date</dt> <dd>The date range to initiate the process.</dd></dlentry>
+<dlentry><dt>Date Range</dt> <dd>Indicates the date range or period for which suspense processing of bill payments is done.</dd></dlentry>
+<dlentry><dt>Debit</dt> <dd>Indicate the debit transaction.</dd></dlentry>
+<dlentry><dt>Debit A/c. ID</dt> <dd>The account id from which the amount is to be debited.</dd></dlentry>
+<dlentry><dt>Default PaySys ID</dt> <dd>The default paysys ID. Default paysys ID will be used for passing payment to the biller account when biller account is with other bank. It is a RRCDM code.</dd></dlentry>
+<dlentry><dt>Default Rate Code</dt> <dd>Indicates the default rate code.</dd></dlentry>
+<dlentry><dt>Description</dt> <dd>Indicates the description of the bill.</dd></dlentry>
+<dlentry><dt>Discount Amt.</dt> <dd>A deduction in price from the actual or face value of a product or service.</dd></dlentry>
+<dlentry><dt>Download Cycle</dt> <dd>Indicates the download cycle.</dd></dlentry>
+<dlentry><dt>Download Type</dt> <dd>The type of file to be downloaded. Valid Values: Bill Details Subscription Acknowledgement Mandate Request</dd></dlentry>
+<dlentry><dt>Dr. Entity ID</dt> <dd>The ID of the entity for debit.</dd></dlentry>
+<dlentry><dt>Due Date</dt> <dd>The due date</dd></dlentry>
+<dlentry><dt>Enrichment Template ID</dt> <dd>Indicates the enrichment template ID.</dd></dlentry>
+<dlentry><dt>Entity ID</dt> <dd>A unique identification number assigned to a bank or an entity in Finacle.</dd></dlentry>
+<dlentry><dt>Entity Type</dt> <dd>The type of entity is indicated, whether payment order, file or batch.</dd></dlentry>
+<dlentry><dt>Event History</dt> <dd>Indicates the details of the event history.</dd></dlentry>
+<dlentry><dt>Expiry Date</dt> <dd>Indicate the expiry date.</dd></dlentry>
+<dlentry><dt>External Mandate Ref. No.</dt> <dd>The reference number of the external mandate provided from other bank.</dd></dlentry>
+<dlentry><dt>Failed</dt> <dd>Click the hyperlink to view the list of all files which are failed.</dd></dlentry>
+<dlentry><dt>Failed Volume</dt> <dd>Click the hyperlink to view the list ofpayments which failed.</dd></dlentry>
+<dlentry><dt>Field Name</dt> <dd>Indicates the field name.</dd></dlentry>
+<dlentry><dt>Field Value</dt> <dd>The field value is indicated.</dd></dlentry>
+<dlentry><dt>File Direction</dt> <dd>Indicates the direction of the file.<p>Valid Values</p><p><b>Inward</b> Indicates the direction of the file is inward.</p><p><b>Outward</b> Indicates the direction of the file is outward.</p></dd></dlentry>
+<dlentry><dt>File Download Type</dt> <dd>Select the appropriate value to indicate the file download type. Valid Values: Delta Full</dd></dlentry>
+<dlentry><dt>File Name</dt> <dd>Indicates the name of the file.</dd></dlentry>
+<dlentry><dt>File Sender Identifier</dt> <dd>Indicates the identifier of the file sender.</dd></dlentry>
+<dlentry><dt>File Serial No.</dt> <dd>Indicates the file serial number.</dd></dlentry>
+<dlentry><dt>File Status</dt> <dd>Indicates the status of the file.Valid ValuesSuccess Indicates the file has been successfully uploaded.Failed Indicates the file has failed upload.</dd></dlentry>
+<dlentry><dt>File Template ID</dt> <dd>Indicates the template ID of the file.</dd></dlentry>
+<dlentry><dt>File Type</dt> <dd>The type of file.</dd></dlentry>
+<dlentry><dt>Float Period</dt> <dd>Indicates the float period and this field is enabled only if payment credit preference is 'After Float Period'.</dd></dlentry>
+<dlentry><dt>Free Code 1</dt> <dd>Free codes to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Code 2</dt> <dd>Free codes to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Code 3</dt> <dd>Free codes to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Code 4</dt> <dd>Free codes to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Text 1</dt> <dd>Indicates free text to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Text 2</dt> <dd>Indicates free text to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Text 3</dt> <dd>Indicates free text to be entered by the user.</dd></dlentry>
+<dlentry><dt>Free Text 4</dt> <dd>Indicates free text to be entered by the user.</dd></dlentry>
+<dlentry><dt>From Amt.</dt> <dd>The starting value of the instructed amount.</dd></dlentry>
+<dlentry><dt>From Date</dt> <dd>The starting date from which the details must be fetched.</dd></dlentry>
+<dlentry><dt>From Slab</dt> <dd>Indicates the slab code from which the bills are considered for penalty.</dd></dlentry>
+<dlentry><dt>Generate Report</dt> <dd>Indicates if report to be generated or not.<p>Valid Values</p><p><b>Yes</b> Indicates report needs to be generated.</p><p><b>No</b> Indicates report need not be generated.</p></dd></dlentry>
+<dlentry><dt>Generate/Regenerate</dt> <dd>Indicate generate or regenerate value. Valid Values: Generate Regenerate</dd></dlentry>
+<dlentry><dt>Get Details</dt> <dd>The details to be fetched.<p>Valid Values</p><p><b>CIF ID</b> Indicates the details are to be fetched by the CIF ID.</p><p><b>Identification No.</b> Indicates the details are to be fetched by identification number.</p></dd></dlentry>
+<dlentry><dt>Hot Payment ID</dt> <dd>Indicates the hot payment ID.</dd></dlentry>
+<dlentry><dt>Identification No.</dt> <dd>The unique identification number is indicated.</dd></dlentry>
+<dlentry><dt>In-Process Amt.</dt> <dd>The total payment amount for all the records in process.</dd></dlentry>
+<dlentry><dt>In-Process Volume</dt> <dd>Click the hyperlink to view the list of records under processing.</dd></dlentry>
+<dlentry><dt>Input Directory</dt> <dd>Indicates the input directory.</dd></dlentry>
+<dlentry><dt>Inquire Based On</dt> <dd>Indicates whether the inquiry is based on payment creation/bill upload date or payment execution/bill presentment date.</dd></dlentry>
+<dlentry><dt>Instruction Amt.</dt> <dd>The amount of the instruction.</dd></dlentry>
+<dlentry><dt>Instrument Alpha/No.</dt> <dd>The alphanumeric instrument number of the transaction.</dd></dlentry>
+<dlentry><dt>Instrument Date</dt> <dd>Indicates the instrument date.</dd></dlentry>
+<dlentry><dt>Instrument No.</dt> <dd>Indicates the serial number of the instruments like security or equities.</dd></dlentry>
+<dlentry><dt>Instrument Type</dt> <dd>The instrument type code indicating the instrument through which the transfer is done.</dd></dlentry>
+<dlentry><dt>Last Executed Date</dt> <dd>Indicates the last date of payment made by the customer. Note: This field is empty even if a single payment is not done.</dd></dlentry>
+<dlentry><dt>Late Fee</dt> <dd>Indicates the late fees paid.</dd></dlentry>
+<dlentry><dt>Late Payment Amt.</dt> <dd>The amount to be paid by the payer after the due date.</dd></dlentry>
+<dlentry><dt>Mandate Template ID</dt> <dd>The id for the mandate template.</dd></dlentry>
+<dlentry><dt>Message</dt> <dd>Indicates the message.</dd></dlentry>
+<dlentry><dt>Message Type</dt> <dd>Indicates the message type.<p> Valid Values: Paid Returned Recalled</p></dd></dlentry>
+<dlentry><dt>MICR Code</dt> <dd>Indicate the Magnetic Ink Character Recognition (MICR) code of the bank. </dd></dlentry>
+<dlentry><dt>Min. Amt.</dt> <dd>The minimum amount due for the bill selected.</dd></dlentry>
+<dlentry><dt>Name on Credit Card</dt> <dd>The user name on the credit card.</dd></dlentry>
+<dlentry><dt>Net Amt.</dt> <dd>Indicates the total amount to be paid netting of the charges.</dd></dlentry>
+<dlentry><dt>Net Off Credit Value</dt> <dd>Indicate the netoff credit amount is to be passed to biller account. <p>Valid Values: Yes No </p><p>Note: This field is disabled if None is selected in the charge biller for service field. If net off credit </p></dd></dlentry>
+<dlentry><dt>New Payment Amt.</dt> <dd>The new payment amount.</dd></dlentry>
+<dlentry><dt>Next Execution Date</dt> <dd>The date range when the next execution of standing instruction will take place.</dd></dlentry>
+<dlentry><dt>Next Schedule Date</dt> <dd>Conditional Display Indicates the date of next schedule calculated based on the frequency applicable. Note: This field is displayed when Charging Biller for Services is selected as one among Presentment</dd></dlentry>
+<dlentry><dt>Nick Name</dt> <dd>Indicate the nickname of the beneficiary.</dd></dlentry>
+<dlentry><dt>No. of Biller Services</dt> <dd>The number of registered biller service for the biller.</dd></dlentry>
+<dlentry><dt>No. of Days</dt> <dd>Indicates the number of days.</dd></dlentry>
+<dlentry><dt>No. of Interday Retries Available</dt> <dd>Indicates the number of retries available in between days.</dd></dlentry>
+<dlentry><dt>No. of Intraday Retries Available</dt> <dd>Indicates the number of retries available in a day.</dd></dlentry>
+<dlentry><dt>No. of Payments Remaining</dt> <dd>Indicates the number of payments remaining.</dd></dlentry>
+<dlentry><dt>No. of Payments Scheduled</dt> <dd>The number of payment scheduled is given here.</dd></dlentry>
+<dlentry><dt>Office A/c. Allowed Exception Code</dt> <dd>Indicates the exception code for raising an exception when an account belong to an office account.</dd></dlentry>
+<dlentry><dt>Original</dt> <dd>Indicates the original date.</dd></dlentry>
+<dlentry><dt>Original Payment Amt.</dt> <dd>Indicates the amount paid by the payer and the amount which was being transferred to the biller account for the bill.</dd></dlentry>
+<dlentry><dt>Other Bank Download Template ID</dt> <dd>The other bank download template ID.</dd></dlentry>
+<dlentry><dt>Output Directory</dt> <dd>Indicates the output directory.</dd></dlentry>
+<dlentry><dt>Paid Amt.</dt> <dd>Indicates the amount paid.</dd></dlentry>
+<dlentry><dt>Partial Success Allowed</dt> <dd>Indicate if partial success is allowed. Valid Values: Yes No</dd></dlentry>
+<dlentry><dt>Payee Name</dt> <dd>Party to whom a bill of exchange (such as a check or draft) is made payable.</dd></dlentry>
+<dlentry><dt>Payer Charge Event ID</dt> <dd>The charge code used for collecting charges from customers who use modes other than credit cards for making bill payments. Note: This field is disabled if None is selected in the payer charging rule field.</dd></dlentry>
+<dlentry><dt>Payer CIF ID</dt> <dd>The customer information file ID of the payer.</dd></dlentry>
+<dlentry><dt>Payment Amt.</dt> <dd>The payment amount to be paid.</dd></dlentry>
+<dlentry><dt>Payment Credit Preference</dt> <dd>The code to indicate the payment credit preference.</dd></dlentry>
+<dlentry><dt>Payment Date</dt> <dd>The date of payment of the bill by the payer.</dd></dlentry>
+<dlentry><dt>Payment Execution Date</dt> <dd>Indicates the execution date of the payment.</dd></dlentry>
+<dlentry><dt>Payment History</dt> <dd>The payment history is indicated here.</dd></dlentry>
+<dlentry><dt>Payment ID</dt> <dd>The payment identification code.</dd></dlentry>
+<dlentry><dt>Payment Mode</dt> <dd>Select the payment mode. Valid Values: Cash Transfer Other Bank Details Cheque Credit Card</dd></dlentry>
+<dlentry><dt>Payment Mode Type</dt> <dd>The payment mode type is indicated, whether file or message.</dd></dlentry>
+<dlentry><dt>Payment Placeholder</dt> <dd>The placeholder linked to the intermediate office account in which payments made by customers are consolidated before crediting to biller. Note: The intermediate office account in which payments made by payers are consolidated before passing the credit to biller. </dd></dlentry>
+<dlentry><dt>Payment Status</dt> <dd>The status of the payment.</dd></dlentry>
+<dlentry><dt>Payment Template ID</dt> <dd>The payment template ID. Note: This will be default payment template ID used for payment in PUBS for ad hoc payments</dd></dlentry>
+<dlentry><dt>PaySys ID</dt> <dd>Indicates the ID of the payment system.</dd></dlentry>
+<dlentry><dt>Pcnt.</dt> <dd>The percentage for calculation of the amount for this slab.</dd></dlentry>
+<dlentry><dt>Period Indicator</dt> <dd>The current interest/profit slab to be applied on full period or on differential basis. Valid Values:Full: The interest is applied on the full period. Differential: The interest is applied on differential basis. None: This option is used if period indicator is not to be applied.</dd></dlentry>
+<dlentry><dt>Presentment Bill Template ID</dt> <dd>The presentment bill template ID.</dd></dlentry>
+<dlentry><dt>Process Preference</dt> <dd>Indicates the preference of the process.<p>Valid Values</p><p><b>Subscribed bills</b> Indicates the preferred process as subscribed bills.</p><p><b>Scheduled Bills</b> Indicates the preferred process as scheduled bills.</p><p><b>Both</b> Indicates the preferred process to be both subscribed and scheduled bills.</p></dd></dlentry>
+<dlentry><dt>Processed</dt> <dd>Click the hyperlink to view the list of all files which are processed.</dd></dlentry>
+<dlentry><dt>Processed Volume</dt> <dd>Click the hyperlink to view the list of all records which are processed. All bills for which payment are. credited to the biller account are termed as processed bills.</dd></dlentry>
+<dlentry><dt>Processing Date</dt> <dd>The date by which the payment initiation must be done to be passed to the biller.</dd></dlentry>
+<dlentry><dt>Processing Type</dt> <dd>Indicates the type of processing.<p>Valid Values</p><p><b>Biller Return</b> Indicates the preocessing type to be biller return type.</p><p><b>Payer Recall</b> Indicates the processing type to be payer recall type.</p><p><b>Biller Recall</b> Indicates the processing type to be biller recall type.</p></dd></dlentry>
+<dlentry><dt>Rate code/Rate</dt> <dd>The rate code and rate used to convert the additional amount, if the currency of the additional amount is different from the currency of the extension account.</dd></dlentry>
+<dlentry><dt>Reason Code</dt> <dd>The reason code for failure of the payment.</dd></dlentry>
+<dlentry><dt>Reason Code Description</dt> <dd>Indicates the description of the selected reason code.</dd></dlentry>
+<dlentry><dt>Reason for Failure</dt> <dd>Indicates the reason for failure.</dd></dlentry>
+<dlentry><dt>Recalled By</dt> <dd>Indicates whether recalled by biller, payment or both.</dd></dlentry>
+<dlentry><dt>Recalled by Biller Volume</dt> <dd>Click the hyperlink to view the list of records recalled by the biller.</dd></dlentry>
+<dlentry><dt>Recalled by Payer Volume</dt> <dd>Click the hyperlink to view the list of records recalled by the payer.</dd></dlentry>
+<dlentry><dt>Receipt Template ID</dt> <dd>Indicates the receipt template ID.</dd></dlentry>
+<dlentry><dt>Remarks</dt> <dd>Relevant remarks if any.</dd></dlentry>
+<dlentry><dt>Report To</dt> <dd>Indicates the report to criteria.</dd></dlentry>
+<dlentry><dt>Response File Cycle ID</dt> <dd>Indicates the response file cycle ID.</dd></dlentry>
+<dlentry><dt>Returned Volume</dt> <dd>Click the hyperlink to view the list of records which are returned both by the billers and payers.</dd></dlentry>
+<dlentry><dt>Slab Code</dt> <dd>Indicates the range of amounts defined for a charge code.</dd></dlentry>
+<dlentry><dt>Sort by (Payment Execution Date / Bill Due Date)</dt> <dd>Whether to sort the payment execution date or bill due date in ascending or descending order is indicated here.</dd></dlentry>
+<dlentry><dt>Srl. No.</dt> <dd>The serial number</dd></dlentry>
+<dlentry><dt>Standing Instruction Frequency</dt> <dd>Indicates the frequency details of the standing instruction, with valid values as Daily, Weekly, Fortnightly, Monthly, Quarterly, Half Yearly, Yearly, Every Day, Twice a Month.</dd></dlentry>
+<dlentry><dt>Standing Instruction ID</dt> <dd>The ID of the standing instruction is indicated.</dd></dlentry>
+<dlentry><dt>Standing Instruction Only</dt> <dd>Whether standing instructions needed or not is indicated here.</dd></dlentry>
+<dlentry><dt>Start Date</dt> <dd>Indicates the start date for maintain discount and penalty slab code.</dd></dlentry>
+<dlentry><dt>Status</dt> <dd>Indicates the status of the bill.</dd></dlentry>
+<dlentry><dt>Subscription Auth/Ack Template ID</dt> <dd>Indicates the subscription authorization or acknowledgement template ID.</dd></dlentry>
+<dlentry><dt>Subscription End Date</dt> <dd>The end date of the subscription is indicated here.</dd></dlentry>
+<dlentry><dt>Subscription Id</dt> <dd>The subscription ID is indicated.</dd></dlentry>
+<dlentry><dt>Subscription Start Date</dt> <dd>The start date of the subscription is indicated here.</dd></dlentry>
+<dlentry><dt>Subscription Validity Date</dt> <dd>The date till which payer subscription for this biller service is valid.</dd></dlentry>
+<dlentry><dt>Suspense Amt.</dt> <dd>The total payment amount for all the records in suspense.</dd></dlentry>
+<dlentry><dt>Suspense Placeholder</dt> <dd>Indicates the placeholder of the suspense account to be used for delivery channel transactions by default.</dd></dlentry>
+<dlentry><dt>Suspense Volume</dt> <dd>Click the hyperlink to view the list of all records under suspense mode and currency.</dd></dlentry>
+<dlentry><dt>Template ID</dt> <dd>Indicates the ID of the template.</dd></dlentry>
+<dlentry><dt>To Amt.</dt> <dd>Indicates the amount slab to which the penalty is charged.</dd></dlentry>
+<dlentry><dt>To Date</dt> <dd>Display Indicates the ending date till which the details will be fetched.</dd></dlentry>
+<dlentry><dt>To Slab</dt> <dd>Indicates the slab code to which the bills are considered for penalty.</dd></dlentry>
+<dlentry><dt>Total Amt.</dt> <dd>Indicates the total bill payment amount of the bill as selected on the criteria screen.</dd></dlentry>
+<dlentry><dt>Total Amt. Available in Float A/c. till Date</dt> <dd>The status of the amount available in the biller float account at the bank level. This amount represents the amount that is transferred to the billers for the bills paid by the bank.</dd></dlentry>
+<dlentry><dt>Total Bill Amt.</dt> <dd>Indicates the total bill amount to be paid.</dd></dlentry>
+<dlentry><dt>Total Charge Amt.</dt> <dd>Indicates the charge amount to be debited from the biller account if the biller is a customer of the bank and the account is captured at the time of biller service registration.</dd></dlentry>
+<dlentry><dt>Total Discount Amt.</dt> <dd>Indicates the total amount of discount.</dd></dlentry>
+<dlentry><dt>Total Failed Amt.</dt> <dd>The total amount of the billsfor which payment failed.</dd></dlentry>
+<dlentry><dt>Total Failed Bills</dt> <dd>The total number of bills for which payment failed.</dd></dlentry>
+<dlentry><dt>Total In Process Amt.</dt> <dd>The total processed amount.</dd></dlentry>
+<dlentry><dt>Total In-Process Volume</dt> <dd>The total number of records in process along with the value in the currency.</dd></dlentry>
+<dlentry><dt>Total Late Fee Amt.</dt> <dd>Indicates the amount for late fee.</dd></dlentry>
+<dlentry><dt>Total No. of Bills Uploaded</dt> <dd>Explode Click to view the list of all bills and details of individual bills.</dd></dlentry>
+<dlentry><dt>Total No. of Subscriptions</dt> <dd>Explode Click to list all biller services subscribed by the customer.</dd></dlentry>
+<dlentry><dt>Total Payment Amt.</dt> <dd>Indicates the total amount for payment.</dd></dlentry>
+<dlentry><dt>Total Pending Amt.</dt> <dd>The total amount of the bills pending for payment for the customer.</dd></dlentry>
+<dlentry><dt>Total Pending Bills</dt> <dd>The total number of bills pending for payment for the customer.</dd></dlentry>
+<dlentry><dt>Total Standing Instructions</dt> <dd>Explode Click to list the details of each of the standing instructions.</dd></dlentry>
+<dlentry><dt>Total Suspense Volume</dt> <dd>The total number of records in suspense along with the value in the currency.</dd></dlentry>
+<dlentry><dt>Transaction Details</dt> <dd>The details of the transaction.</dd></dlentry>
+<dlentry><dt>Transaction Ref. No.</dt> <dd>Indicates the reference number for the transaction.</dd></dlentry>
+<dlentry><dt>Transaction Status</dt> <dd>Indicates the transaction status. <p>Valid Values: Success Failed In Process</p></dd></dlentry>
+<dlentry><dt>Transaction Type</dt> <dd>Indicates the type of transaction.<p>Valid Values</p><p><b>Pay</b> Indicates the type of transaction is payment.</p><p><b>Return/Recall</b> Indicates the type of transaction is return or recall.</p><p><b>Biller charges</b> Indicates the type of transaction is biller charges.</p><p><b>Biller payments</b> Indicates the type of transaction is biller payments.</p></dd></dlentry>
+<dlentry><dt>Transaction Upload Template ID</dt> <dd>The transaction upload template ID.</dd></dlentry>
+<dlentry><dt>Transfer</dt> <dd>A transaction where all the part transactions pertain to a non cash account and is not created by the clearing process.</dd></dlentry>
+<dlentry><dt>Trigger Download Batch</dt> <dd>Select the appropriate value to indicate if download batch is to be triggered. Valid Values: Yes No</dd></dlentry>
+<dlentry><dt>Txn. Ref. No.</dt> <dd>Indicates the reference number of the transaction.</dd></dlentry>
+<dlentry><dt>Upload File Name</dt> <dd>Indicates the name of the uploaded file.</dd></dlentry>
+<dlentry><dt>Upload Type</dt> <dd>Indicates the type of upload.<p>Valid Values</p><p><b>Presented Bills</b> Indicates bills are uploaded.</p><p><b>Status Recon Bills</b> Indicates status recon bills are uploaded.</p><p><b>Subscription acknowledgement</b> Indicates subscription acknowledgement bills are uploaded.</p><p><b>Other bank mandate request</b> Indicates other bank mandate requests are uploaded.</p><p><b>Credit card authorization request</b> Indicates credit card authorization requests are uploaded.</p><p><b>Miscellaneous</b> Indicates miscellaneous documents are uploaded.</p></dd></dlentry>
+<dlentry><dt>Uploaded</dt> <dd>Click the hyperlink to view the list of all files which are uploaded.</dd></dlentry>
+<dlentry><dt>Uploaded Date</dt> <dd>The date on which the file was uploaded</dd></dlentry>
+<dlentry><dt>User Type</dt> <dd>Indicates the type of user.<p>Valid Values</p><p><b>Customer</b> Indicates customer user type.</p><p><b>Non Customer</b> Indicates no customer user type.</p></dd></dlentry>
+<dlentry><dt>Value</dt> <dd>Indicates the date for which batch generation of payment charges take place.</dd></dlentry>
+<dlentry><dt>Value Date</dt> <dd>The value date for the transaction.</dd></dlentry>
+<dlentry><dt>Version No.</dt> <dd>Indicates the version number of the bill.</dd></dlentry>
+<dlentry><dt>Waive Charge Reason Code</dt> <dd>The code for waiving the charges</dd></dlentry>
+<dlentry><dt>Waive Charges</dt> <dd>Indicates whether charges are waived off or not.<p>Valid Values</p><p><b>Yes</b> Indicates charges to be waived off.</p><p><b>No</b> Indicates charges not to be waived off.</p></dd></dlentry>
+<dlentry><dt>Waiver Date</dt> <dd>Indicates the date on which charges are waived</dd></dlentry>
+<dlentry><dt>Waiver of Charges</dt> <dd>Whether to waiver off the charges or not is indicated.</dd></dlentry>
+<dlentry><dt>Waiver Reason Code</dt> <dd>Indicates the reason code for the waive off charges.</dd></dlentry>
